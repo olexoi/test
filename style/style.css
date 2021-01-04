@@ -1,0 +1,226 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+}
+
+header {
+  padding: 40px;
+  font-size: 16px;
+}
+
+header a {
+  padding: 0 15px;
+  text-decoration: none;
+  color: black;
+}
+
+header a:hover {
+  color: #F53838;
+}
+
+header .sign-in {
+  font-weight: bold;
+  font-size: 16px;
+  padding: 0 20px;
+  border: none;
+  background-color: #fff;
+}
+
+header .sign-up {
+  width: 150px;
+  height: 45px;
+  font-size: 16px;
+  border-radius: 50px;
+  border: 2px solid #F53838;
+  background-color: white;
+  color: #F53838;
+  font-weight: bold;
+}
+
+.main-section {
+  padding: 60px;
+}
+
+.main-section .main-text {
+  font-size: 50px;
+  line-height: 70px;
+  font-family: 'Rubik', sans-serif;
+}
+
+.main-section .main-text span {
+  font-weight: bold;
+}
+
+.main-section .main-section-text {
+  font-size: 16px;
+  margin-bottom: 60px;
+  font-family: 'Rubik', sans-serif;
+}
+
+.main-section .main-section-text span {
+  font-weight: bold;
+}
+
+.main-section .main-section-button {
+  width: 250px;
+  height: 60px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  background-color: #F53838;
+  color: white;
+  border-radius: 10px;
+}
+
+.statistic {
+  margin-top: 60px;
+  height: 200px;
+  padding-top: 50px;
+}
+
+.statistic h2 {
+  font-weight: bold;
+}
+
+.statistic .icon {
+  padding-right: 60px;
+}
+
+.section-2 {
+  margin-top: 60px;
+}
+
+.section-2 .all-text {
+  padding: 60px 0;
+}
+
+.section-2 h2 {
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 50px;
+}
+
+.section-2 p {
+  line-height: 30px;
+}
+
+.section-2 .tick {
+  padding-right: 30px;
+}
+
+.section-2 .illustration {
+  margin-bottom: 60px;
+}
+
+.section-3 {
+  margin: 60px 0;
+}
+
+.section-3 h2 {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 30px 0;
+}
+
+.section-3 p {
+  font-size: 14px;
+  padding-left: 15%;
+}
+
+.section-3 .buttons h2 {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.section-3 .buttons span {
+  font-weight: bold;
+}
+
+.section-3 .buttons button {
+  color: #F53838;
+  margin: 0 15%;
+  width: 70%;
+  height: 45px;
+  border: 2px solid #F53838;
+  border-radius: 50px;
+  background-color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.section-3 .buttons button:hover {
+  color: white;
+  background-color: #F53838;
+}
+
+.section-4 {
+  padding: 60px;
+}
+
+.section-4 h2 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.section-4 p {
+  font-size: 16px;
+  padding: 30px;
+}
+
+.section-4 img {
+  padding-top: 100px;
+}
+
+.subscribe {
+  padding: 60px;
+}
+
+.subscribe h2 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.subscribe p {
+  font-size: 16px;
+  padding: 25px 0;
+}
+
+.subscribe .subscribe-button {
+  background-color: #F53838;
+  color: white;
+  border-radius: 10px;
+  height: 60px;
+  width: 250px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+footer {
+  padding: 60px;
+}
+
+footer h2 {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 20px 0;
+}
+
+footer span {
+  font-weight: bold;
+}
+
+footer p {
+  font-size: 16px;
+}
+
+footer .footer-text {
+  padding: 20px 80px 20px 0;
+}
+
+footer .copyright {
+  font-size: 16px;
+  color: #AFB5C0;
+}
+/*# sourceMappingURL=style.css.map */
